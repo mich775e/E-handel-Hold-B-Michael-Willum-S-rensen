@@ -1,0 +1,7 @@
+.wrapper {
+    position: relative;
+    flex-grow: 1;
+    margin: auto;
+    max-width: 1500px;
+    max-height: 650px;
+    }
